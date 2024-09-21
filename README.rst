@@ -1,4 +1,4 @@
-BLAZOGRAM - A library for make Telegram Bots.
+BLAZOGRAM - A library for making Telegram Bots.
 =============================================
 
 Install
